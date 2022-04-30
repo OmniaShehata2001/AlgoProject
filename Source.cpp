@@ -47,7 +47,7 @@ int main() {
 		{
 			if (strcmp(v[i].c_str(), vectornotSorted[j].c_str()) ==0)
 			{
-				outData << "new index is :  " + to_string(i) + "  old index is : " + to_string(j) + "  the line is " + v[i].c_str() + "\n";
+				outData << "new index is ::  " + to_string(i) + "  old index is : " + to_string(j) + "  the line is " + v[i].c_str() + "\n";
 				break;
 			}
 		}
