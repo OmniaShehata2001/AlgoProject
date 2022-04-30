@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Omnia Mohamed\source\repos\Project36\Project36\Source.cpp(26,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omnia Mohamed\source\repos\Project36\Project36\Source.cpp(32,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omnia Mohamed\source\repos\Project36\Project36\Source.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omnia Mohamed\source\repos\Project36\Project36\Source.cpp(44,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omnia Mohamed\source\repos\Project36\Project36\Source.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omnia Mohamed\source\repos\Project36\Project36\Source.cpp(43,7): warning C4101: 'a': unreferenced local variable
+  Project36.vcxproj -> C:\Users\Omnia Mohamed\source\repos\Project36\Debug\Project36.exe
